@@ -1,4 +1,4 @@
-#include "main.h"
+#include "driver_entry.h"
 #include <ntddk.h>
 
 VOID driverUnload(PDRIVER_OBJECT DriverObject) {
